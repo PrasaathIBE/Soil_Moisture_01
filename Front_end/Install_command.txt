@@ -1,0 +1,13 @@
+Front end npm install
+
+## To load the esri-loader ##
+1. npm install --save esri-loader
+
+## To load chart js in project, install the below given command ##
+2. npm install chart.js --save 
+
+## To solve this issue "Cannot find module '@ng-bootstrap/ng-bootstrap' or its corresponding type declarations" Install the below command ##
+3. npm i @ng-bootstrap/ng-bootstrap
+
+## To solve this " Cannot find namespace '__esri'. ", install the below given command ##
+4. npm install --save @types/arcgis-js-api
